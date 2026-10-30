@@ -1,0 +1,1688 @@
+﻿{
+    "arabic_cards":  [
+                         {
+                             "filename":  "10000000_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\10000000_ar.jpg",
+                             "card_id":  "10000000",
+                             "card_name_en":  "Obelisk the Tormentor",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "10000010_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\10000010_ar.jpg",
+                             "card_id":  "10000010",
+                             "card_name_en":  "The Winged Dragon of Ra",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "10000020_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\10000020_ar.jpg",
+                             "card_id":  "10000020",
+                             "card_name_en":  "Slifer the Sky Dragon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "100460006_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\100460006_ar.jpg",
+                             "card_id":  "100460006",
+                             "card_name_en":  "Cubic Bodhi",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305001_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305001_ar.jpg",
+                             "card_id":  "101305001",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305002_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305002_ar.jpg",
+                             "card_id":  "101305002",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305003_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305003_ar.jpg",
+                             "card_id":  "101305003",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305005_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305005_ar.jpg",
+                             "card_id":  "101305005",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305007_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305007_ar.jpg",
+                             "card_id":  "101305007",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305009_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305009_ar.jpg",
+                             "card_id":  "101305009",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305028_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305028_ar.jpg",
+                             "card_id":  "101305028",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305029_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305029_ar.jpg",
+                             "card_id":  "101305029",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305044_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305044_ar.jpg",
+                             "card_id":  "101305044",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305045_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305045_ar.jpg",
+                             "card_id":  "101305045",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305046_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305046_ar.jpg",
+                             "card_id":  "101305046",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305047_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305047_ar.jpg",
+                             "card_id":  "101305047",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101305065_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101305065_ar.jpg",
+                             "card_id":  "101305065",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "101403031_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\101403031_ar.jpg",
+                             "card_id":  "101403031",
+                             "card_name_en":  "Lava Golem, Steelcage of the Sun God",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "102380 - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\102380 - Copy_ar.jpg",
+                             "card_id":  "102380 - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "102380_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\102380_ar.jpg",
+                             "card_id":  "102380",
+                             "card_name_en":  "Lava Golem",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "11549357_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\11549357_ar.jpg",
+                             "card_id":  "11549357",
+                             "card_name_en":  "Gamma the Magnet Warrior",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "12580477_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\12580477_ar.jpg",
+                             "card_id":  "12580477",
+                             "card_name_en":  "Raigeki",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "13039848_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\13039848_ar.jpg",
+                             "card_id":  "13039848",
+                             "card_name_en":  "Giant Soldier of Stone",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "13215230_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\13215230_ar.jpg",
+                             "card_id":  "13215230",
+                             "card_name_en":  "Dream Clown",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "13604200_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\13604200_ar.jpg",
+                             "card_id":  "13604200",
+                             "card_name_en":  "Sage\u0027s Stone",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "15025844_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\15025844_ar.jpg",
+                             "card_id":  "15025844",
+                             "card_name_en":  "Mystical Elf",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "15173384_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\15173384_ar.jpg",
+                             "card_id":  "15173384",
+                             "card_name_en":  "Illusionist Faceless Magician",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "15259703_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\15259703_ar.jpg",
+                             "card_id":  "15259703",
+                             "card_name_en":  "Toon World",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "15270885_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\15270885_ar.jpg",
+                             "card_id":  "15270885",
+                             "card_name_en":  "Toon Goblin Attack Force",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "16392422_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\16392422_ar.jpg",
+                             "card_id":  "16392422",
+                             "card_name_en":  "Toon Masked Sorcerer",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "16589042_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\16589042_ar.jpg",
+                             "card_id":  "16589042",
+                             "card_name_en":  "Swift Gaia the Fierce Knight",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "17655904_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\17655904_ar.jpg",
+                             "card_id":  "17655904",
+                             "card_name_en":  "Burst Stream of Destruction",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "18144507_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\18144507_ar.jpg",
+                             "card_id":  "18144507",
+                             "card_name_en":  "Harpie\u0027s Feather Duster",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "20654247_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\20654247_ar.jpg",
+                             "card_id":  "20654247",
+                             "card_name_en":  "Blue-Eyes Chaos Dragon",
+                             "type":  "Ritual Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "21082832_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\21082832_ar.jpg",
+                             "card_id":  "21082832",
+                             "card_name_en":  "Chaos Form",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "22634473_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\22634473_ar.jpg",
+                             "card_id":  "22634473",
+                             "card_name_en":  "Destined Rivals",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "22804410_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\22804410_ar.jpg",
+                             "card_id":  "22804410",
+                             "card_name_en":  "Deep-Eyes White Dragon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "2314238_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\2314238_ar.jpg",
+                             "card_id":  "2314238",
+                             "card_name_en":  "Dark Magic Attack",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "23446369_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\23446369_ar.jpg",
+                             "card_id":  "23446369",
+                             "card_name_en":  "Eye of Illusion",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "2372506_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\2372506_ar.jpg",
+                             "card_id":  "2372506",
+                             "card_name_en":  "Chaos Magical Hats",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "24094653 - Copy - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\24094653 - Copy - Copy_ar.jpg",
+                             "card_id":  "24094653 - Copy - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "24094653 - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\24094653 - Copy_ar.jpg",
+                             "card_id":  "24094653 - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "24094653_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\24094653_ar.jpg",
+                             "card_id":  "24094653",
+                             "card_name_en":  "Polymerization",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "24382602_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\24382602_ar.jpg",
+                             "card_id":  "24382602",
+                             "card_name_en":  "Mausoleum of White",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "25655502_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\25655502_ar.jpg",
+                             "card_id":  "25655502",
+                             "card_name_en":  "Bickuribox",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "25801745_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\25801745_ar.jpg",
+                             "card_id":  "25801745",
+                             "card_name_en":  "Lo, the Prayers of the Voiceless Voice",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "27118421_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\27118421_ar.jpg",
+                             "card_id":  "27118421",
+                             "card_name_en":  "Starving Venom Fusion Dragon, Four Heavenly Dragons",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "27125110_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\27125110_ar.jpg",
+                             "card_id":  "27125110",
+                             "card_name_en":  "Thousand-Eyes Idol",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "2783661_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\2783661_ar.jpg",
+                             "card_id":  "2783661",
+                             "card_name_en":  "Majesty with Eyes of Blue",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "28279543_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\28279543_ar.jpg",
+                             "card_id":  "28279543",
+                             "card_name_en":  "Curse of Dragon",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "28546905_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\28546905_ar.jpg",
+                             "card_id":  "28546905",
+                             "card_name_en":  "Illusionist Faceless Mage",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "29311166_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\29311166_ar.jpg",
+                             "card_id":  "29311166",
+                             "card_name_en":  "Assault Wyvern",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "29432790_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\29432790_ar.jpg",
+                             "card_id":  "29432790",
+                             "card_name_en":  "Rage with Eyes of Blue",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "2964201_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\2964201_ar.jpg",
+                             "card_id":  "2964201",
+                             "card_name_en":  "Ryu-Ran",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "30397786_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\30397786_ar.jpg",
+                             "card_id":  "30397786",
+                             "card_name_en":  "Blue-Eyes White Dragon, the White Phantom Beast",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "30576089_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\30576089_ar.jpg",
+                             "card_id":  "30576089",
+                             "card_name_en":  "Blue-Eyes Jet Dragon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "30875635_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\30875635_ar.jpg",
+                             "card_id":  "30875635",
+                             "card_name_en":  "Miracle Ejector",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "31733941_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\31733941_ar.jpg",
+                             "card_id":  "31733941",
+                             "card_name_en":  "Red-Eyes Toon Dragon",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "33017964_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\33017964_ar.jpg",
+                             "card_id":  "33017964",
+                             "card_name_en":  "Illusion Gate",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "33453260_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\33453260_ar.jpg",
+                             "card_id":  "33453260",
+                             "card_name_en":  "Comic Hand",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "34815282_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\34815282_ar.jpg",
+                             "card_id":  "34815282",
+                             "card_name_en":  "Miniaturize",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "35659410_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\35659410_ar.jpg",
+                             "card_id":  "35659410",
+                             "card_name_en":  "Vision with Eyes of Blue",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "36361633_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\36361633_ar.jpg",
+                             "card_id":  "36361633",
+                             "card_name_en":  "Threatening Roar",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "38033121_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\38033121_ar.jpg",
+                             "card_id":  "38033121",
+                             "card_name_en":  "Dark Magician Girl",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "38247752_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\38247752_ar.jpg",
+                             "card_id":  "38247752",
+                             "card_name_en":  "Dark-Eyes Illusionist",
+                             "type":  "Flip Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "38369349_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\38369349_ar.jpg",
+                             "card_id":  "38369349",
+                             "card_name_en":  "Manga Ryu-Ran",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "38517737_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\38517737_ar.jpg",
+                             "card_id":  "38517737",
+                             "card_name_en":  "Blue-Eyes Alternative White Dragon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "39256679_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\39256679_ar.jpg",
+                             "card_id":  "39256679",
+                             "card_name_en":  "Beta The Magnet Warrior",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "4031928_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\4031928_ar.jpg",
+                             "card_id":  "4031928",
+                             "card_name_en":  "Change of Heart",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "40640057 - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\40640057 - Copy_ar.jpg",
+                             "card_id":  "40640057 - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "40640057_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\40640057_ar.jpg",
+                             "card_id":  "40640057",
+                             "card_name_en":  "Kuriboh",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "40737112_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\40737112_ar.jpg",
+                             "card_id":  "40737112",
+                             "card_name_en":  "Dark Magician of Chaos",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "41350417_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\41350417_ar.jpg",
+                             "card_id":  "41350417",
+                             "card_name_en":  "Dark Magical Curtain",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "41392891_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\41392891_ar.jpg",
+                             "card_id":  "41392891",
+                             "card_name_en":  "Feral Imp",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "41426869 (1)_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\41426869 (1)_ar.jpg",
+                             "card_id":  "41426869 (1)",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "41426869_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\41426869_ar.jpg",
+                             "card_id":  "41426869",
+                             "card_name_en":  "Black Illusion Ritual",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "41578483_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\41578483_ar.jpg",
+                             "card_id":  "41578483",
+                             "card_name_en":  "Millennium-Eyes Restrict",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "43175858_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\43175858_ar.jpg",
+                             "card_id":  "43175858",
+                             "card_name_en":  "Toon Kingdom",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "43509019_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\43509019_ar.jpg",
+                             "card_id":  "43509019",
+                             "card_name_en":  "Toon Defense",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "44095762_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\44095762_ar.jpg",
+                             "card_id":  "44095762",
+                             "card_name_en":  "Mirror Force",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "44886582_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\44886582_ar.jpg",
+                             "card_id":  "44886582",
+                             "card_name_en":  "Super Duper Polymerization",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "45409943_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\45409943_ar.jpg",
+                             "card_id":  "45409943",
+                             "card_name_en":  "Luce the Dusk\u0027s Dark",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "45467446_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\45467446_ar.jpg",
+                             "card_id":  "45467446",
+                             "card_name_en":  "Dragon Spirit of White",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "45644898_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\45644898_ar.jpg",
+                             "card_id":  "45644898",
+                             "card_name_en":  "Master with Eyes of Blue",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "46986414 - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\46986414 - Copy_ar.jpg",
+                             "card_id":  "46986414 - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "46986414_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\46986414_ar.jpg",
+                             "card_id":  "46986414",
+                             "card_name_en":  "Dark Magician",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "48800175_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\48800175_ar.jpg",
+                             "card_id":  "48800175",
+                             "card_name_en":  "The Melody of Awakening Dragon",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "50045299_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\50045299_ar.jpg",
+                             "card_id":  "50045299",
+                             "card_name_en":  "Dragon Capture Jar",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "50213848_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\50213848_ar.jpg",
+                             "card_id":  "50213848",
+                             "card_name_en":  "Monster Reborn Reborn",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "50371210_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\50371210_ar.jpg",
+                             "card_id":  "50371210",
+                             "card_name_en":  "Beacon of White",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "51296484_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\51296484_ar.jpg",
+                             "card_id":  "51296484",
+                             "card_name_en":  "Saffira, Dragon Queen of the Voiceless Voice",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "53094821_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\53094821_ar.jpg",
+                             "card_id":  "53094821",
+                             "card_name_en":  "Toon Terror",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "53183600_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\53183600_ar.jpg",
+                             "card_id":  "53183600",
+                             "card_name_en":  "Blue-Eyes Toon Dragon",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "5318639_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\5318639_ar.jpg",
+                             "card_id":  "5318639",
+                             "card_name_en":  "Mystical Space Typhoon",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "53701259_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\53701259_ar.jpg",
+                             "card_id":  "53701259",
+                             "card_name_en":  "Awakening of the Sacred Beasts",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "54248491_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\54248491_ar.jpg",
+                             "card_id":  "54248491",
+                             "card_name_en":  "Relinquished Spider",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "54603525_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\54603525_ar.jpg",
+                             "card_id":  "54603525",
+                             "card_name_en":  "Clear Wing Synchro Dragon, Four Heavenly Dragons",
+                             "type":  "Synchro Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "55144522 - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\55144522 - Copy_ar.jpg",
+                             "card_id":  "55144522 - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "55144522_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\55144522_ar.jpg",
+                             "card_id":  "55144522",
+                             "card_name_en":  "Pot of Greed",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "55410871_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\55410871_ar.jpg",
+                             "card_id":  "55410871",
+                             "card_name_en":  "Blue-Eyes Chaos MAX Dragon",
+                             "type":  "Ritual Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "55763552_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\55763552_ar.jpg",
+                             "card_id":  "55763552",
+                             "card_name_en":  "Dragon Piper",
+                             "type":  "Flip Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "5640330_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\5640330_ar.jpg",
+                             "card_id":  "5640330",
+                             "card_name_en":  "Hannibal Necromancer",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "56920308_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\56920308_ar.jpg",
+                             "card_id":  "56920308",
+                             "card_name_en":  "The Ultimate Creature of Destruction",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "57019473_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\57019473_ar.jpg",
+                             "card_id":  "57019473",
+                             "card_name_en":  "Sishunder",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "57043986_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\57043986_ar.jpg",
+                             "card_id":  "57043986",
+                             "card_name_en":  "Blue-Eyes Solid Dragon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "5818798_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\5818798_ar.jpg",
+                             "card_id":  "5818798",
+                             "card_name_en":  "Gazelle the King of Mythical Beasts",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "5832914_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\5832914_ar.jpg",
+                             "card_id":  "5832914",
+                             "card_name_en":  "Toon Briefcase",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "61190918_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\61190918_ar.jpg",
+                             "card_id":  "61190918",
+                             "card_name_en":  "Toon Buster Blader",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "62089826_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\62089826_ar.jpg",
+                             "card_id":  "62089826",
+                             "card_name_en":  "True Light",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "62121_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\62121_ar.jpg",
+                             "card_id":  "62121",
+                             "card_name_en":  "Castle of Dark Illusions",
+                             "type":  "Flip Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "62279055_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\62279055_ar.jpg",
+                             "card_id":  "62279055",
+                             "card_name_en":  "Magic Cylinder",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "62782218_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\62782218_ar.jpg",
+                             "card_id":  "62782218",
+                             "card_name_en":  "Skull Conductor",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "63391643_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\63391643_ar.jpg",
+                             "card_id":  "63391643",
+                             "card_name_en":  "Thousand Knives",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "63516460_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\63516460_ar.jpg",
+                             "card_id":  "63516460",
+                             "card_name_en":  "Mystical Wind Typhoon",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "63519819_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\63519819_ar.jpg",
+                             "card_id":  "63519819",
+                             "card_name_en":  "Thousand-Eyes Restrict",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "64202399_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\64202399_ar.jpg",
+                             "card_id":  "64202399",
+                             "card_name_en":  "Blue-Eyes Abyss Dragon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "64475743_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\64475743_ar.jpg",
+                             "card_id":  "64475743",
+                             "card_name_en":  "Kittytail, Mystical Beast of the Forest",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "64631466_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\64631466_ar.jpg",
+                             "card_id":  "64631466",
+                             "card_name_en":  "Relinquished",
+                             "type":  "Ritual Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "65240384_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\65240384_ar.jpg",
+                             "card_id":  "65240384",
+                             "card_name_en":  "Big Shield Gardna",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "65458948_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\65458948_ar.jpg",
+                             "card_id":  "65458948",
+                             "card_name_en":  "Toon Mermaid",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "65541655_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\65541655_ar.jpg",
+                             "card_id":  "65541655",
+                             "card_name_en":  "Red Nova Dragon - Burning Soul",
+                             "type":  "Synchro Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "66569334_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\66569334_ar.jpg",
+                             "card_id":  "66569334",
+                             "card_name_en":  "Nightmell the Dark Bonder",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "66752837_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\66752837_ar.jpg",
+                             "card_id":  "66752837",
+                             "card_name_en":  "Keeper of the Shrine",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "6853254_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\6853254_ar.jpg",
+                             "card_id":  "6853254",
+                             "card_name_en":  "Return of the Dragon Lords",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "6903857_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\6903857_ar.jpg",
+                             "card_id":  "6903857",
+                             "card_name_en":  "Power Breaker",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "69145169_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\69145169_ar.jpg",
+                             "card_id":  "69145169",
+                             "card_name_en":  "Successor Soul",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "69542930_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\69542930_ar.jpg",
+                             "card_id":  "69542930",
+                             "card_name_en":  "Dedication through Light and Darkness",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "70560957_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\70560957_ar.jpg",
+                             "card_id":  "70560957",
+                             "card_name_en":  "Toon Rollback",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "70781052_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\70781052_ar.jpg",
+                             "card_id":  "70781052",
+                             "card_name_en":  "Summoned Skull",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "71039903_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\71039903_ar.jpg",
+                             "card_id":  "71039903",
+                             "card_name_en":  "The White Stone of Ancients",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "71143015_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\71143015_ar.jpg",
+                             "card_id":  "71143015",
+                             "card_name_en":  "Ultimate Fusion",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "71413901_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\71413901_ar.jpg",
+                             "card_id":  "71413901",
+                             "card_name_en":  "Breaker the Magical Warrior",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "71808988_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\71808988_ar.jpg",
+                             "card_id":  "71808988",
+                             "card_name_en":  "Blue-Eyes Ultimate Toon Dragon",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "71867500_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\71867500_ar.jpg",
+                             "card_id":  "71867500",
+                             "card_name_en":  "Dragon Revival Rhapsody",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "72302403_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\72302403_ar.jpg",
+                             "card_id":  "72302403",
+                             "card_name_en":  "Swords of Revealing Light",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "72855441_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\72855441_ar.jpg",
+                             "card_id":  "72855441",
+                             "card_name_en":  "Protector with Eyes of Blue",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "73048641_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\73048641_ar.jpg",
+                             "card_id":  "73048641",
+                             "card_name_en":  "Half Shut",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "73752131_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\73752131_ar.jpg",
+                             "card_id":  "73752131",
+                             "card_name_en":  "Skilled Dark Magician",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "76504386_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\76504386_ar.jpg",
+                             "card_id":  "76504386",
+                             "card_name_en":  "Number 39: Utopia, Emissary of Light",
+                             "type":  "XYZ Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "76520646_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\76520646_ar.jpg",
+                             "card_id":  "76520646",
+                             "card_name_en":  "Infinity Dark",
+                             "type":  "Gemini Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "76630812_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\76630812_ar.jpg",
+                             "card_id":  "76630812",
+                             "card_name_en":  "Graceful \u0026 Skull Dice",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "78063197_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\78063197_ar.jpg",
+                             "card_id":  "78063197",
+                             "card_name_en":  "Relinquished Fusion",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "78193831_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\78193831_ar.jpg",
+                             "card_id":  "78193831",
+                             "card_name_en":  "Buster Blader",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "79109599_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\79109599_ar.jpg",
+                             "card_id":  "79109599",
+                             "card_name_en":  "King of the Swamp",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "79447365_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\79447365_ar.jpg",
+                             "card_id":  "79447365",
+                             "card_name_en":  "Toon Mask",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "79571449_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\79571449_ar.jpg",
+                             "card_id":  "79571449",
+                             "card_name_en":  "Graceful Charity",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "79814787_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\79814787_ar.jpg",
+                             "card_id":  "79814787",
+                             "card_name_en":  "The White Stone of Legend",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "79875176_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\79875176_ar.jpg",
+                             "card_id":  "79875176",
+                             "card_name_en":  "Toon Cannon Soldier",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "81684048_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\81684048_ar.jpg",
+                             "card_id":  "81684048",
+                             "card_name_en":  "Pumpking the King of Grave Ghosts",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "8240199_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\8240199_ar.jpg",
+                             "card_id":  "8240199",
+                             "card_name_en":  "Sage with Eyes of Blue",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "83445539_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\83445539_ar.jpg",
+                             "card_id":  "83445539",
+                             "card_name_en":  "Darkness Resonator",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "83764719_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\83764719_ar.jpg",
+                             "card_id":  "83764719",
+                             "card_name_en":  "Monster Reborn",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "85306040_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\85306040_ar.jpg",
+                             "card_id":  "85306040",
+                             "card_name_en":  "Goblin Elite Attack Force",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "87025064_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\87025064_ar.jpg",
+                             "card_id":  "87025064",
+                             "card_name_en":  "Silver\u0027s Cry",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "87774234_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\87774234_ar.jpg",
+                             "card_id":  "87774234",
+                             "card_name_en":  "Watapon",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "87796900_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\87796900_ar.jpg",
+                             "card_id":  "87796900",
+                             "card_name_en":  "Winged Dragon, Guardian of the Fortress #1",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "87880531_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\87880531_ar.jpg",
+                             "card_id":  "87880531",
+                             "card_name_en":  "Diffusion Wave-Motion",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "88032456_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\88032456_ar.jpg",
+                             "card_id":  "88032456",
+                             "card_name_en":  "Mimicat",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "88241506_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\88241506_ar.jpg",
+                             "card_id":  "88241506",
+                             "card_name_en":  "Maiden with Eyes of Blue",
+                             "type":  "Tuner Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "88570003_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\88570003_ar.jpg",
+                             "card_id":  "88570003",
+                             "card_name_en":  "Dark Magician, the Pharaoh\u0027s Servant",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "88619463_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\88619463_ar.jpg",
+                             "card_id":  "88619463",
+                             "card_name_en":  "Sorcerer of Dark Magic",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "8915275_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\8915275_ar.jpg",
+                             "card_id":  "8915275",
+                             "card_name_en":  "Evil Box",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "89631139 - Copy (2)_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\89631139 - Copy (2)_ar.jpg",
+                             "card_id":  "89631139 - Copy (2)",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "89631139 - Copy_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\89631139 - Copy_ar.jpg",
+                             "card_id":  "89631139 - Copy",
+                             "card_name_en":  "Unknown",
+                             "type":  "Arabic Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "89631139_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\89631139_ar.jpg",
+                             "card_id":  "89631139",
+                             "card_name_en":  "Blue-Eyes White Dragon",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "8978197_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\8978197_ar.jpg",
+                             "card_id":  "8978197",
+                             "card_name_en":  "The King of D.",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "89997728_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\89997728_ar.jpg",
+                             "card_id":  "89997728",
+                             "card_name_en":  "Toon Table of Contents",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "90091224_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\90091224_ar.jpg",
+                             "card_id":  "90091224",
+                             "card_name_en":  "Dark Rebellion Xyz Dragon, Four Heavenly Dragons",
+                             "type":  "XYZ Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "90726340_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\90726340_ar.jpg",
+                             "card_id":  "90726340",
+                             "card_name_en":  "Queen Dragun Djinn",
+                             "type":  "XYZ Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "91152256_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\91152256_ar.jpg",
+                             "card_id":  "91152256",
+                             "card_name_en":  "Celtic Guardian",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "91500017_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\91500017_ar.jpg",
+                             "card_id":  "91500017",
+                             "card_name_en":  "Toon Bookmark",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "9156135_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\9156135_ar.jpg",
+                             "card_id":  "9156135",
+                             "card_name_en":  "Apprentice Magician",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "91842653_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\91842653_ar.jpg",
+                             "card_id":  "91842653",
+                             "card_name_en":  "Toon Summoned Skull",
+                             "type":  "Toon Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "92936364_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\92936364_ar.jpg",
+                             "card_id":  "92936364",
+                             "card_name_en":  "Red Dragon Archfiend\u0027s Chains",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "93889755_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\93889755_ar.jpg",
+                             "card_id":  "93889755",
+                             "card_name_en":  "Crass Clown",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "94259633_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\94259633_ar.jpg",
+                             "card_id":  "94259633",
+                             "card_name_en":  "Relinquished Anima",
+                             "type":  "Link Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "95697223_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\95697223_ar.jpg",
+                             "card_id":  "95697223",
+                             "card_name_en":  "Dragon\u0027s Fighting Spirit",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "95727991_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\95727991_ar.jpg",
+                             "card_id":  "95727991",
+                             "card_name_en":  "Catapult Turtle",
+                             "type":  "Effect Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "96239878_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\96239878_ar.jpg",
+                             "card_id":  "96239878",
+                             "card_name_en":  "Strength in Unity",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "97077563_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\97077563_ar.jpg",
+                             "card_id":  "97077563",
+                             "card_name_en":  "Call of the Haunted",
+                             "type":  "Trap Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "97612389_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\97612389_ar.jpg",
+                             "card_id":  "97612389",
+                             "card_name_en":  "Monster Tamer",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "98476659_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\98476659_ar.jpg",
+                             "card_id":  "98476659",
+                             "card_name_en":  "Pot of Sloth",
+                             "type":  "Spell Card",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "98502113_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\98502113_ar.jpg",
+                             "card_id":  "98502113",
+                             "card_name_en":  "Dark Paladin",
+                             "type":  "Fusion Monster",
+                             "language":  "Arabic"
+                         },
+                         {
+                             "filename":  "99785935_ar.jpg",
+                             "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\arabic_upload\\99785935_ar.jpg",
+                             "card_id":  "99785935",
+                             "card_name_en":  "Alpha The Magnet Warrior",
+                             "type":  "Normal Monster",
+                             "language":  "Arabic"
+                         }
+                     ],
+    "over_frame_cards":  [
+                             {
+                                 "filename":  "10_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\10_fl.jpg",
+                                 "identified_card":  "Unidentified (10_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "11_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\11_fl.jpg",
+                                 "identified_card":  "Unidentified (11_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "12_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\12_fl.jpg",
+                                 "identified_card":  "Unidentified (12_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "13_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\13_fl.jpg",
+                                 "identified_card":  "Unidentified (13_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "14_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\14_fl.jpg",
+                                 "identified_card":  "Unidentified (14_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "15_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\15_fl.jpg",
+                                 "identified_card":  "Unidentified (15_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "16_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\16_fl.jpg",
+                                 "identified_card":  "Unidentified (16_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "17_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\17_fl.jpg",
+                                 "identified_card":  "Unidentified (17_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "18_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\18_fl.jpg",
+                                 "identified_card":  "Unidentified (18_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "19_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\19_fl.jpg",
+                                 "identified_card":  "Unidentified (19_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "1_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\1_fl.jpg",
+                                 "identified_card":  "Unidentified (1_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "20_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\20_fl.jpg",
+                                 "identified_card":  "Unidentified (20_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "21_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\21_fl.jpg",
+                                 "identified_card":  "Unidentified (21_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "22_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\22_fl.jpg",
+                                 "identified_card":  "Unidentified (22_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "23_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\23_fl.jpg",
+                                 "identified_card":  "Unidentified (23_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "24_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\24_fl.jpg",
+                                 "identified_card":  "Unidentified (24_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "25_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\25_fl.jpg",
+                                 "identified_card":  "Unidentified (25_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "26_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\26_fl.jpg",
+                                 "identified_card":  "Unidentified (26_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "27_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\27_fl.jpg",
+                                 "identified_card":  "Unidentified (27_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "28_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\28_fl.jpg",
+                                 "identified_card":  "Unidentified (28_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "29_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\29_fl.jpg",
+                                 "identified_card":  "Unidentified (29_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "2_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\2_fl.jpg",
+                                 "identified_card":  "Unidentified (2_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "30_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\30_fl.jpg",
+                                 "identified_card":  "Unidentified (30_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "3_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\3_fl.jpg",
+                                 "identified_card":  "Unidentified (3_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "4_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\4_fl.jpg",
+                                 "identified_card":  "Unidentified (4_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "5_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\5_fl.jpg",
+                                 "identified_card":  "Unidentified (5_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "6_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\6_fl.jpg",
+                                 "identified_card":  "Unidentified (6_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "7_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\7_fl.jpg",
+                                 "identified_card":  "Unidentified (7_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "8_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\8_fl.jpg",
+                                 "identified_card":  "Unidentified (8_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             },
+                             {
+                                 "filename":  "9_fl.jpg",
+                                 "file_path":  "C:\\Users\\kero2\\Downloads\\.4\\over frame\\9_fl.jpg",
+                                 "identified_card":  "Unidentified (9_fl)",
+                                 "card_id":  null,
+                                 "frame_status":  "Over-Frame / Frameless"
+                             }
+                         ]
+}
